@@ -6,9 +6,9 @@ Shopping Cart React API
 So Ez
 
 ```
-Npm i
+npm i
 ```
 ```
-Npm Start
+npm Start
 ```
 > Finsh 🤩
